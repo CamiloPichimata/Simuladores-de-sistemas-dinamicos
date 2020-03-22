@@ -15,7 +15,7 @@ A continuación, un índice del archivo [Demo de simuladores de sistemas dinámi
  + **Sistema probabilístico**
  + **Ensamble de sistemas probabilísticos**
      - Ensamble con sistema enemigos
- + ***Sistemas cuánticos**
+ + **Sistemas cuánticos**
      - Devolverse en el tiempo
  + **Experimento de la doble rendija (probabilístico)**
  + **Experimento de la doble rendija (cuántico)**
